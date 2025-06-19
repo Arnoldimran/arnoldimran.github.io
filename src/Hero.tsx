@@ -1,0 +1,1 @@
+<user-provided Hero.tsx code here>
